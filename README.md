@@ -1,9 +1,15 @@
 ### 📈 GitHub Stats
 
-[![](https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&theme=radical&hide=prs,contribs)](https://github.com/NehaDadarwala/github-readme-stats)
+<!-- [![](https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs)](https://github.com/NehaDadarwala/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats-nehadadarwala.vercel.app/api/top-langs/?username=NehaDadarwala&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nehadadarwala.vercel.app/api/top-langs/?username=NehaDadarwala&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  -->
  
+ <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<p><img align="left" src="https://github-readme-stats-nehadadarwala.vercel.app/api/top-langs?username=NehaDadarwala&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs,contribs" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 <!--
 **NehaDadarwala/NehaDadarwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
