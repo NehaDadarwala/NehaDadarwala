@@ -1,4 +1,4 @@
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats -->
 
 <!-- [![](https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs)](https://github.com/NehaDadarwala/github-readme-stats)
  
