@@ -1,6 +1,6 @@
-## &#x1f4c8; GitHub Stats
+### 📈 GitHub Stats
 
-[![](https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&theme=radical)](https://github.com/NehaDadarwala/github-readme-stats)
+[![](https://github-readme-stats-nehadadarwala.vercel.app/api?username=NehaDadarwala&count_private=true&show_icons=true&theme=radical&hide=prs,contribs)](https://github.com/NehaDadarwala/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats-nehadadarwala.vercel.app/api/top-langs/?username=NehaDadarwala&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
